@@ -15,3 +15,8 @@ export const personalData = {
   devUsername: "M Umar",
   resume: "https://drive.google.com/file/d/1Af2NsG6RbLcY9BUNn3i2nHN1NGrtg0x3/view?usp=sharing"
 }
+<<<<<<< HEAD
+resume: "https://drive.google.com/file/d/1iXO4FOFjC5Ba7ZqM5lpt5uMoBfgX7xrR/view?usp=sharing"
+=======
+resume: "https://drive.google.com/file/d/1Af2NsG6RbLcY9BUNn3i2nHN1NGrtg0x3/view?usp=sharing"
+>>>>>>> 654b32a
