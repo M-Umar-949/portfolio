@@ -62,7 +62,7 @@ function ProjectCard({ project }) {
             <span className="text-gray-400">,</span>
           </div>
           <div>
-            <span className="ml-4 lg:ml-8 mr-2 text-white">Repo link:</span>
+            <span className="ml-4 lg:ml-8 mr-2 text-white">link:</span>
             <a href={project.git_repo_link} className="text-orange-400" target="_blank" rel="noopener noreferrer">
               Click here
             </a>
